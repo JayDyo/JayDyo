@@ -1,3 +1,7 @@
 # JAY | DYO
-A page about me.
 
+# Main page ; Who am I
+
+## Second page ; My interests
+
+## Third page ; My basics of BFYI & DNI
