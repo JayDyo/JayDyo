@@ -5,7 +5,7 @@
 
 <img width="99" height="56" alt="tumblr_d81a907611bbd4958e620fdbac361b12_a302e7bc_100" src="https://github.com/user-attachments/assets/4fe95f69-d060-4719-b0f6-d05d2deca983" /><img width="99" height="56" alt="tumblr_256085d57b0091fdc9cf9e61a355efe6_248b8f27_100" src="https://github.com/user-attachments/assets/6268604a-06b8-4725-a710-336c612658cc" />
 
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=azltqagdecqph0yan2jrzqmag&cover_image=true&theme=default&show_offline=false&background_color=034a4f&interchange=false&profanity=false&hide_remaster=false&bar_color=397fa2&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=azltqagdecqph0yan2jrzqmag&redirect=true)
 
 # Main page ; Who am I
 
